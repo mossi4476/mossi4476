@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm currently a student at Duy Tan University<br>
 I’m currently learning React.js,Next.js,Node.js,more...<br>
-How to reach me: tiendungnguyen.4476@gmail.com
+Contact me: tiendungnguyen.4476@gmail.com
 <!--
 **mossi4476/mossi4476** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
