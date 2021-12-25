@@ -1,6 +1,5 @@
 ### Hi there 👋
-I'm currently a student at Duy Tan University<br>
-I’m currently learning React.js,Next.js,Node.js,and more...
+
 
 <!--
 **mossi4476/mossi4476** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
